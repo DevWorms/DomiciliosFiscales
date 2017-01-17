@@ -1,0 +1,18 @@
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\bin\Debug\Domicilios Fiscales.exe
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\bin\Debug\Domicilios Fiscales.pdb
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\bin\Debug\Domicilios Fiscales.xml
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.vbproj.ResolveComReference.cache
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\obj\x86\Debug\Domicilios_Fiscales.Resources.resources
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.vbproj.GenerateResource.Cache
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.exe
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.xml
+C:\Users\salva\AppData\Local\Temporary Projects\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.pdb
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.vbproj.ResolveComReference.cache
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.exe
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.xml
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.pdb
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\bin\Debug\Domicilios Fiscales.exe
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\bin\Debug\Domicilios Fiscales.pdb
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\bin\Debug\Domicilios Fiscales.xml
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\obj\x86\Debug\Domicilios_Fiscales.Resources.resources
+C:\Users\salva\Documents\Alsea Mexico\Domicilios Fiscales\Domicilios Fiscales\Domicilios Fiscales\obj\x86\Debug\Domicilios Fiscales.vbproj.GenerateResource.Cache
